@@ -467,7 +467,7 @@ consultarDatos() {
 while [ TRUE ]
 do
 	clear
-	echo "Taller Evaludado 2 - SIO"
+	echo "Gestor de Base de Datos"
 	echo ""
 	echo "1 - Ingresar datos"
 	echo "2 - Borrar datos"
